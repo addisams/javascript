@@ -16,4 +16,8 @@ C
 1. [Install node] (https://nodejs.org/en/)
 3. npm install
 4. npm run devserver
-5. Enjoy
+5. Enjo
+B6.darsh srivastav
+A
+D
+y
